@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srilaxmi Nilagiri</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srilaxmi-0121&label=Profile%20views&color=0e75b6&style=flat" alt="srilaxmi-0121" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srilaxmi-0121" alt="srilaxmi-0121" /></a> </p>
-
 - 📫 How to reach me **nilagirisrilaxmi21@gmail.com**
 
 - ⚡ Fun fact **🛠 I write code like I write poetry—confusing but deeply meaningful.**
@@ -23,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srilaxmi-0121&show_icons=true&locale=en" alt="srilaxmi-0121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srilaxmi-0121&" alt="srilaxmi-0121" /></p>
-
